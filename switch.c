@@ -43,6 +43,7 @@ switch (day) {
     printf("November");
     break;
   case 12:
+  //nothing
     printf("December");
     break;
     return 0;
