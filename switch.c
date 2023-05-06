@@ -46,6 +46,9 @@ switch (day) {
   //nothing
     printf("December");
     break;
+    default:
+    printf("nothing");
+    
     return 0;
 }
 }
